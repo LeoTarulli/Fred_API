@@ -10,8 +10,8 @@ This project explores, retrieves, and visualizes various economic and financial 
 ## 🛠️ Tech Stack & Libraries
 * **Python** (Core Environment)
 * **fredapi** (Official FRED API wrapper)
-* **pandas & numpy** (Data cleaning and preprocessing)[cite: 2]
-* **matplotlib & seaborn** (Static statistical charts)[cite: 2]
-* **plotly.express** (Interactive dynamic data charting)[cite: 2]
-* **python-dotenv** (Secure API key environment management)[cite: 2]
+* **pandas & numpy** (Data cleaning and preprocessing)
+* **matplotlib & seaborn** (Static statistical charts)
+* **plotly.express** (Interactive dynamic data charting)
+* **python-dotenv** (Secure API key environment management)
 
